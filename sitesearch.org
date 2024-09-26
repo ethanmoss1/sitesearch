@@ -1,0 +1,22 @@
+* SITESEARCH
+Changes to make firefox more intergrated into exwm
+TODO:
+group, allow for customisation and discoverability
+docstring, make understanding everything easier
+more...
+** Ideas for the firefox implementation to exwm (emacs in general) called sitesearch
+*** wrapper around the browse-url impementation?
+this way i can use exsisting code infrastructure and add in the additional features
+*** TODO keybinding in firefox to open sitesearch
+
+** Research
+*** Look intoconsult imenu and how it work
+[[/home/ethan/.config/emacs/elpaca/repos/consult/consult-imenu.el]]
+the thing at point is added to the future hist (how to make default? get url at point?)
+
+*** How to make a package
+with use with use-package macro?
+dependencies?
+
+*** error with adding to history in consult--multi
+the history is based on the minibuffer history, see info add-to-history
