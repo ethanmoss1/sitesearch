@@ -4,10 +4,11 @@ TODO:
 group, allow for customisation and discoverability
 docstring, make understanding everything easier
 more...
+
 ** Ideas for the firefox implementation to exwm (emacs in general) called sitesearch
 *** wrapper around the browse-url impementation?
 this way i can use exsisting code infrastructure and add in the additional features
-*** TODO keybinding in firefox to open sitesearch
+*** keybinding in firefox to open sitesearch
 
 ** Research
 *** Look intoconsult imenu and how it work

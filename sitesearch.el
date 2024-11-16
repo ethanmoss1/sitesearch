@@ -43,7 +43,7 @@ This could be personal preferences such as opening in a new tab or window")
   "url history for sitesearch")
 
 (defvar sitesearch--search-terms-history nil
-  "history var for searchterms")
+  "history var for search terms")
 
 (defvar sitesearch--source-recent
   `( :name     "Recent"
